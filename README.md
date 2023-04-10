@@ -1,4 +1,4 @@
-# ICS Security Tools, Tips, and Trade
+# Miscellaneous OT Security Things
 
 Developed as a community asset
 
